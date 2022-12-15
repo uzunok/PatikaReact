@@ -1,0 +1,24 @@
+{
+  "name": "patikareact",
+  "version": "1.0.0",
+  "description": "patika.dev üzerinden alınan react derleri için repo\r github'a gönderilecek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uzunok/PatikaReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzunok/PatikaReact/issues"
+  },
+  "homepage": "https://github.com/uzunok/PatikaReact#readme",
+  "devDependencies": {
+    "axios": "^1.2.1"
+  }
+}
